@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Simply extend objects with default values",
   "main": "lib/index.js",
+  "private": false,
   "scripts": {
     "bump": "npm install && npm test && npm version patch && git push && git push --tags",
     "eslint": "node node_modules/eslint/bin/eslint **/*.js ",
