@@ -1,5 +1,5 @@
 {
-  "name": "@sa/default",
+  "name": "@s-a/default",
   "version": "1.0.2",
   "description": "Simply extend objects with default values",
   "main": "lib/index.js",
